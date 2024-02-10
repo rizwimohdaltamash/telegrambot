@@ -1,0 +1,22 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "Altam AI Bot",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "altam",
+    "ai",
+    "telegram"
+  ],
+  "author": "Altamash",
+  "license": "ISC",
+ 
+  "dependencies": {
+    "node-telegram-bot-api": "^0.63.0",
+    "openai": "^4.10.0"
+  }
+}
